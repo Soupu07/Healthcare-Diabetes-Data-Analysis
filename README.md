@@ -1,4 +1,4 @@
-# Healthcare-Diabetes-Data-Analysis-using-Capstone
+# Healthcare-Diabetes-Data-Analysis
 
 **DESCRIPTION**
 
